@@ -7,11 +7,7 @@
   }
   
   body {
-    background: linear-gradient(
-      90deg,
-      rgb(250, 91, 91) 15%,
-      rgb(247, 9, 3) 70%
-    );
+    background: rgb(247, 9, 3) 
  
   }
   .todo-app {
@@ -62,11 +58,8 @@
     border-radius: 0 4px 4px 0;
     cursor: pointer;
     outline: none;
-    background: linear-gradient(
-      90deg,
-      rgb(250, 91, 91) 15%,
-      rgb(247, 9, 3) 70%
-    );
+    background: rgb(247, 9, 3) ;
+
     color: #fff;
     text-transform: capitalize;
   }
